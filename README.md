@@ -7,8 +7,8 @@ This is written in C#
 1. Copy the IISSiteGenerator.exe \bin\Release
 2. Run the from command line 
 	### Add an Application:
-     IISSiteGenerator add <Web site name> <application name to be created> <directory>
+     IISSiteGenerator add #<Web site name> <application name to be created> <directory>
 
 	### Remove an Application:
-     IISSiteGenerator remove <Web site name> <application name to be created> 
+     IISSiteGenerator remove #<Web site name> <application name to be created> 
 
