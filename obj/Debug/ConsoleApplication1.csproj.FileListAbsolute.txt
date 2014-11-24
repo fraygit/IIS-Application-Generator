@@ -1,0 +1,7 @@
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Debug\Microsoft.Web.Administration.dll
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Debug\IISSiteGenerator.exe.config
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Debug\IISSiteGenerator.exe
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Debug\IISSiteGenerator.pdb
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\obj\Debug\IISSiteGenerator.exe
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\obj\Debug\IISSiteGenerator.pdb

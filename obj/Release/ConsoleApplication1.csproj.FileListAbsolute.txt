@@ -1,0 +1,6 @@
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Release\IISSiteGenerator.exe.config
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Release\IISSiteGenerator.exe
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Release\IISSiteGenerator.pdb
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\bin\Release\Microsoft.Web.Administration.dll
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\obj\Release\IISSiteGenerator.exe
+C:\fray\projects\IISSiteGenerator\ConsoleApplication1\obj\Release\IISSiteGenerator.pdb
