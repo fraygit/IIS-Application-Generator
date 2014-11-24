@@ -16,3 +16,5 @@ This is written in C#
 
 1. There might be an issue on permission. Grant a read/write access on the file C:\Windows\System32\inetsrv\config\redirection.config to IUSR user account.
 
+2. You may also need the Microsoft.Web.Application when compiling the source code. Add the package:
+ PM > Install-Package Microsoft.Web.Administration
